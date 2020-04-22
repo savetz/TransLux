@@ -1,5 +1,5 @@
 # TransLux
-Trans Lux, Atari BASIC art by Hal Glicksman
+Trans Lux, Atari BASIC art by Hal Glicksman (Atari 8-bit)
 
 ![screenshot](screenshot1.png)
 ![screenshot](screenshot2.png)
